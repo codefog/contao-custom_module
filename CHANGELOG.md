@@ -6,6 +6,7 @@ Version 1.1.0 stable (2013-01-??)
 
 ### Improved
 - Added the Polish translation
+- Improved the English translation
 
 
 Version 1.0.0 stable (2013-01-20)
