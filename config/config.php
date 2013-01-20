@@ -11,10 +11,11 @@
  * @license LGPL
  */
 
+
 /**
  * Extension version
  */
-@define('CUSTOM_MODULE_VERSION', '1.0');
+@define('CUSTOM_MODULE_VERSION', '1.1');
 @define('CUSTOM_MODULE_BUILD', '0');
 
 

@@ -27,7 +27,8 @@ $GLOBALS['TL_DCA']['tl_module']['fields']['custom_template'] = array
 	'default'              => 'custom_default',
 	'exclude'              => true,
 	'inputType'            => 'select',
-	'options_callback'     => array('tl_module_custom', 'getCustomTemplates')
+	'options_callback'     => array('tl_module_custom', 'getCustomTemplates'),
+	'sql'                  => "varchar(64) NOT NULL default ''"
 );
 
 
