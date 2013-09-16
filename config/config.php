@@ -16,7 +16,7 @@
  * Extension version
  */
 @define('CUSTOM_MODULE_VERSION', '1.1');
-@define('CUSTOM_MODULE_BUILD', '0');
+@define('CUSTOM_MODULE_BUILD', '1');
 
 
 /**
