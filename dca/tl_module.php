@@ -2,16 +2,16 @@
 
 /**
  * custom_module extension for Contao Open Source CMS
- * 
- * Copyright (C) 2012 Codefog
- * 
+ *
+ * Copyright (C) 2013 Codefog Ltd
+ *
  * @package custom_module
- * @link    http://codefog.pl
+ * @author  Codefog Ltd <http://codefog.pl>
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
  * @license LGPL
  */
 
- 
+
 /**
  * Add a palette to tl_module
  */
@@ -33,7 +33,7 @@ $GLOBALS['TL_DCA']['tl_module']['fields']['custom_template'] = array
 
 
 /**
- * Class tl_module_custom 
+ * Class tl_module_custom
  *
  * Provide miscellaneous methods that are used by the data configuration array.
  */

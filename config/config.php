@@ -2,11 +2,11 @@
 
 /**
  * custom_module extension for Contao Open Source CMS
- * 
- * Copyright (C) 2012 Codefog
- * 
+ *
+ * Copyright (C) 2013 Codefog Ltd
+ *
  * @package custom_module
- * @link    http://codefog.pl
+ * @author  Codefog Ltd <http://codefog.pl>
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
  * @license LGPL
  */
@@ -16,7 +16,7 @@
  * Extension version
  */
 @define('CUSTOM_MODULE_VERSION', '1.1');
-@define('CUSTOM_MODULE_BUILD', '0');
+@define('CUSTOM_MODULE_BUILD', '1');
 
 
 /**
