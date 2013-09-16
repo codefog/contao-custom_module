@@ -2,18 +2,18 @@
 
 /**
  * custom_module extension for Contao Open Source CMS
- * 
- * Copyright (C) 2012 Codefog
- * 
+ *
+ * Copyright (C) 2013 Codefog Ltd
+ *
  * @package custom_module
- * @link    http://codefog.pl
+ * @author  Codefog Ltd <http://codefog.pl>
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
  * @license LGPL
  */
 
 
 /**
- * Class CustomModule 
+ * Class CustomModule
  *
  * Front end module "custom module".
  */
@@ -53,7 +53,7 @@ class CustomModule extends Module
 	/**
 	 * Generate module
 	 */
-	protected function compile() 
+	protected function compile()
 	{
 		$objTemplate = new FrontendTemplate($this->custom_template);
 		$this->Template->output = $objTemplate->parse();
