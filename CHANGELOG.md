@@ -1,7 +1,7 @@
 custom_module Changelog
 =======================
 
-Version 1.1.4 stable (2015-01-??)
+Version 1.1.4 stable (2015-01-20)
 ---------------------------------
 
 ### Improved
