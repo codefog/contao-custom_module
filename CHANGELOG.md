@@ -1,6 +1,13 @@
 custom_module Changelog
 =======================
 
+Version 1.1.4 stable (2015-01-??)
+---------------------------------
+
+### Improved
+- Added the German language files (thanks to Didier Federer)
+
+
 Version 1.1.3 stable (2014-12-18)
 ---------------------------------
 
